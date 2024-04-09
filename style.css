@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+h1{
+    
+    color: red;
+    font-size: 100px;
+}
+h2{
+    color: blue;
+
+}
+h3{
+    color: aqua;
+}
+h4{
+    color: white;
+}
+p{
+    color: yellow;
+}
+
+a:hover{
+    color: blueviolet;
+}
